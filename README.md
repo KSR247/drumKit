@@ -1,7 +1,7 @@
 # drumKit
 Gary got a new drum kit. Come test it out.
 
-Test here: [https://ksr247.github.io/drumKit/](Link)
+Test here: [link](https://ksr247.github.io/drumKit/)
 
 Drum Kit Task:
 
