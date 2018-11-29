@@ -7,7 +7,7 @@
 
 body {
     box-sizing: border-box;
-    background-image: url(/images/gary.png);
+    background-image: url(./images/gary.png);
     background-repeat: no-repeat;
     background-size: 100%;
 
@@ -18,7 +18,8 @@ body {
     justify-content: center;
 }
 
-p,h1 {
+p,
+h1 {
     color: white;
     font-family: 'Luckiest Guy', cursive;
     font-size: 100px;
